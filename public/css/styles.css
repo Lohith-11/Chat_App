@@ -115,7 +115,8 @@ button:disabled {
 /* Message Styles */
 
 .message {
-    margin-bottom: 16px;   
+    margin-bottom: 16px; 
+    text-transform: uppercase;  
 }
 
 .message__name {
